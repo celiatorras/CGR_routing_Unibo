@@ -4,7 +4,7 @@ Repository extracted from https://gitlab.com/unibo-dtn/unibo-cgr
 
 # Unibo-CGR
 
-The core library remains unmodified. The only addition to the original codebase is a script, named \texttt{example_next_hop.c}, located within the \texttt{core} directory.
+The core library remains unmodified. The only addition to the original codebase is a script, named example_next_hop.c, located within the \texttt{core} directory.
 
 This script acts as a standalone testbench to validate the Unibo-CGR routing logic:
 
@@ -76,3 +76,7 @@ This script acts as a standalone testbench to validate the Unibo-CGR routing log
 #### Copyright
 
 Copyright (c) 2020, University of Bologna. Auxiliary files maintain their original copyright.
+
+#### Funding
+
+This work is partially supported by Spanish MCIN/AEI/ 10.13039/501100011033/FEDER/UE through project PID2023-146378NB-I00
